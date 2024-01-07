@@ -1,0 +1,5 @@
+进入 backend
+
+安装 python 依赖
+
+使用 flask run 运行项目
